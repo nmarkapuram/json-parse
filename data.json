@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Nagaraj",
+      "email": "nmar@vmware.com",
+      "age": 30
+    },
+    {
+      "id": "2",
+      "name": "Srini",
+      "email": "srini@vmware.com",
+      "age": 12
+    },
+    {
+      "id": "3",
+      "name": "Sandeep",
+      "email": "sandeep@vmware.com",
+      "age": 25
+    }
+  ]
+}

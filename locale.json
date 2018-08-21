@@ -1,0 +1,25 @@
+{
+    "pages": [{ "id": "login" }, { "id": "reset" }],
+    "locale": [
+      {
+        "id": "title",
+        "value": "Page Name",
+        "pageId": "login"
+      },
+      {
+        "id": "user",
+        "value": "User Name",
+        "pageId": "login"
+      },
+      {
+        "id": "title",
+        "value": "Page Name2",
+        "pageId": "reset"
+      },
+      {
+        "id": "user",
+        "value": "User Name2",
+        "pageId": "reset"
+      }
+    ]
+  }
